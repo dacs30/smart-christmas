@@ -1,23 +1,17 @@
-import logo from './logo.svg';
+import Navbar from './Navbar'
 import './App.css';
+import UserForm from './Components/UserForm';
+import { Grid } from '@material-ui/core';
+
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar />
+      <Grid container alignItems='center' justify='center' direction='column' style={{minHeight:  '75vh'}}>
+        <UserForm fullwidth />
+      </Grid>
     </div>
   );
 }

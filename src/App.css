@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: url('background-image.jpg');
+}
+
+.ReactModal__Overlay {
+  z-index: 1000;
+}
