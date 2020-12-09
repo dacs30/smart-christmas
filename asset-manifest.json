@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smart-christmas/static/css/main.ffa73099.chunk.css",
+    "main.js": "/smart-christmas/static/js/main.4f9e3c6a.chunk.js",
+    "main.js.map": "/smart-christmas/static/js/main.4f9e3c6a.chunk.js.map",
+    "runtime-main.js": "/smart-christmas/static/js/runtime-main.c0f1395a.js",
+    "runtime-main.js.map": "/smart-christmas/static/js/runtime-main.c0f1395a.js.map",
+    "static/js/2.22230b13.chunk.js": "/smart-christmas/static/js/2.22230b13.chunk.js",
+    "static/js/2.22230b13.chunk.js.map": "/smart-christmas/static/js/2.22230b13.chunk.js.map",
+    "static/js/3.88c34d02.chunk.js": "/smart-christmas/static/js/3.88c34d02.chunk.js",
+    "static/js/3.88c34d02.chunk.js.map": "/smart-christmas/static/js/3.88c34d02.chunk.js.map",
+    "index.html": "/smart-christmas/index.html",
+    "static/css/main.ffa73099.chunk.css.map": "/smart-christmas/static/css/main.ffa73099.chunk.css.map",
+    "static/js/2.22230b13.chunk.js.LICENSE.txt": "/smart-christmas/static/js/2.22230b13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/smart-christmas/static/media/background-image.e696c6d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0f1395a.js",
+    "static/js/2.22230b13.chunk.js",
+    "static/css/main.ffa73099.chunk.css",
+    "static/js/main.4f9e3c6a.chunk.js"
+  ]
+}
