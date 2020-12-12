@@ -4,7 +4,7 @@ Hello!
 
 This is smart Christmas. The goal of this project was to create a user interface for a new and innovative secret Santa generator app.
 
-## Connectinng a back-end
+## Connecting a back-end
 
 The structure of the app is pretty simple. Everything runs in the App.js file. The components folder contains the UserForm.js file that runs the form logic. Since this is a React app, everything runs in a single page application. Back to the logic of the code, UserForm perfoms a switch statement that condionally renders the step of the form. The inputs are all state props located inside the UserForm.js. With that said, the "bridge" between this interface and the backend should be at UserForm.js and interact with the state props.
 
